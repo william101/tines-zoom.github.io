@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa961144.css",
-    "main.js": "/static/js/main.ecf22996.js",
-    "static/js/787.5950c8f4.chunk.js": "/static/js/787.5950c8f4.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.aa961144.css.map": "/static/css/main.aa961144.css.map",
-    "main.ecf22996.js.map": "/static/js/main.ecf22996.js.map",
-    "787.5950c8f4.chunk.js.map": "/static/js/787.5950c8f4.chunk.js.map"
+    "main.css": "/tines-zoom.github.io/static/css/main.aa961144.css",
+    "main.js": "/tines-zoom.github.io/static/js/main.02b652d4.js",
+    "static/js/787.5950c8f4.chunk.js": "/tines-zoom.github.io/static/js/787.5950c8f4.chunk.js",
+    "static/media/logo.svg": "/tines-zoom.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tines-zoom.github.io/index.html",
+    "main.aa961144.css.map": "/tines-zoom.github.io/static/css/main.aa961144.css.map",
+    "main.02b652d4.js.map": "/tines-zoom.github.io/static/js/main.02b652d4.js.map",
+    "787.5950c8f4.chunk.js.map": "/tines-zoom.github.io/static/js/787.5950c8f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa961144.css",
-    "static/js/main.ecf22996.js"
+    "static/js/main.02b652d4.js"
   ]
 }
