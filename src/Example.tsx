@@ -29,11 +29,12 @@ export default function Example() {
         style={{
           width: "50%",
           border: "5px solid black",
-          background: "#5c6b88",
+          background: "#ffffff",
           overflow: "hidden",
+          cursor: "grab"
         }}
       >
-        <div ref={canvas} style={{ border: "1px solid black" }}>
+        <div ref={canvas} style={{ background: "#5c6b88", display: "flex", flexDirection: "column" }}>
           <h1>React + Typescript pan and zoom</h1>
           <img src={logo} alt="logo" />
         </div>
